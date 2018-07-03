@@ -31,6 +31,7 @@ public class LoginPageTests extends TestBase {
 			loginPageActions.enterUsername(username);
 			loginPageActions.clickNextBtn();
 			loginPageActions.enterPassword(password);
+			System.out.print("Anshuman");
 			
 			}
 		catch(Exception e)
