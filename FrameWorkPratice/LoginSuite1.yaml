@@ -1,0 +1,7 @@
+name: Login
+configFailurePolicy: skip
+tests:
+  - name: Test1
+    classes:
+      - pageTests.LoginPageTests
+

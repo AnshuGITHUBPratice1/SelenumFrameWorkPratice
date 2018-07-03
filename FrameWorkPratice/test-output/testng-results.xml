@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Login" duration-ms="24933" started-at="2018-07-03T15:58:43Z" finished-at="2018-07-03T15:59:08Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="24933" started-at="2018-07-03T15:58:43Z" finished-at="2018-07-03T15:59:08Z">
+      <class name="pageTests.FBRegTest">
+        <test-method status="PASS" signature="intializeTest()[pri:0, instance:pageTests.FBRegTest@3571b748]" name="intializeTest" is-config="true" duration-ms="17026" started-at="2018-07-03T15:58:43Z" finished-at="2018-07-03T15:59:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeTest -->
+        <test-method status="PASS" signature="FBRegstTest()[pri:0, instance:pageTests.FBRegTest@3571b748]" name="FBRegstTest" duration-ms="5690" started-at="2018-07-03T15:59:00Z" finished-at="2018-07-03T15:59:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FBRegstTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:pageTests.FBRegTest@3571b748]" name="closeBrowser" is-config="true" duration-ms="2164" started-at="2018-07-03T15:59:05Z" finished-at="2018-07-03T15:59:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pageTests.FBRegTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Login -->
+</testng-results>
